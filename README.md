@@ -21,3 +21,21 @@ created to learn GitHub features
 ---
 
 [title](https://www.google.com)
+
+### My Great Heading {#custom-id}
+
+This is so funny 🔥
+
+I need to highlight ==very important words==
+
+Subscript H~2~O
+
+Superscript X^2^
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
